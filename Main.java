@@ -1,4 +1,4 @@
-//Mason Baesel 
+//Mason Baesel
 //  and citations (if necessary)
 
 import javax.swing.JOptionPane;
